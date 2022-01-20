@@ -1,0 +1,7 @@
+# name, repository, branch
+Google Auth Library,https://github.com/googleapis/google-auth-library-java,1.2.x
+Google Cloud Java Client -- Core,https://github.com/googleapis/java-core,2.2.x
+Google Cloud Shared Dependencies,https://github.com/googleapis/java-shared-dependencies,2.4.x
+Google IAM Admin API Client for Java,https://github.com/googleapis/java-iam-admin,1.0.x
+Google IAM Service Account Credentials API Client for Java,https://github.com/googleapis/java-iamcredentials,2.0.x
+Google Cloud BigQuery Client for Java,https://github.com/googleapis/java-bigquery,2.3.x
